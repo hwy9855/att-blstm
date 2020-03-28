@@ -1,0 +1,2 @@
+# Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification
+PyTorch Implementation of paper [**Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification** (ACL 2016), P Zhou et al.](https://www.aclweb.org/anthology/P16-2034/).
